@@ -16,7 +16,7 @@ Actualmente en 6to semestre en la Facultad de Ingeniería ubicada en Ciudad Univ
 
 ### 📜 Certificaciones Oficiales
 - **JavaScript Algorithms and Data Structures** | [freeCodeCamp](https://www.freecodecamp.org/certification/sushiii/javascript-algorithms-and-data-structures) 
-- **Fundamentos de Base de Datos con SQL Server** | [FES Aragón UNAM]([https://github.com/EvansBojorqueZ/EvansBojorqueZ/blob/main/constancias%20alumnos_100.pdf](https://github.com/EvansBojorqueZz/EvansBojorqueZ/blob/main/constancias%20alumnos_100.pdf))
+- **Fundamentos de Base de Datos con SQL Server** | [FES Aragón UNAM](https://github.com/EvansBojorqueZz/EvansBojorqueZ/blob/main/constancias%20alumnos_100.pdf)
   - *Curso intersemestral (20 horas) sobre diseño relacional y consultas SQL.*
 
 ## Tecnologías
