@@ -28,11 +28,22 @@ Actualmente en 6to semestre en la Facultad de Ingeniería ubicada en Ciudad Univ
 - **Bases de Datos:** SQL Server (Fundamentos certificados por la UNAM).
 - **Herramientas:** Git, GitHub, Tinkercad (Simulación de circuitos).
 - **En aprendizaje:** Node.js y frameworks de Frontend para mi portafolio.
+- 
+### JavaScript Algorithms & Data Structures (freeCodeCamp Certification)
+He completado los 5 proyectos finales para la certificación de Algoritmos y Estructuras de Datos, demostrando lógica avanzada y resolución de problemas.
 
-## Mis Proyectos Destacados
-- **[Cash Register Logic](enlace-a-tu-repo):** Algoritmo complejo para manejo de efectivo en JS.| *Complex cash management algorithm in JS.*
-- **Vending Machine Sim:** Simulación de hardware y lógica digital en Tinkercad.| *Hardware and digital logic simulation.*
-- **Sustainable Clothing Swap:** (En desarrollo) Aplicación para fomentar el consumo responsable:
+| Proyecto | Descripción Técnica | Enlace |
+| :--- | :--- | :--- |
+| **Cash Register** | Gestión de inventario y manejo de precisión de punto flotante. | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Cash-Register) |
+| **Roman Numeral Converter** | Implementación de Algoritmo Voraz (Greedy Algorithm). | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Roman-Numeral-Converter) |
+| **Telephone Validator** | Validación compleja de patrones mediante RegEx (Expresiones Regulares). | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Telephone-Number-Validator) |
+| **Caesars Cipher** | Manipulación de datos a nivel de caracteres (ASCII) y Criptografía básica. | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Caesars-Cipher) |
+| **Palindrome Checker** | Procesamiento de cadenas y limpieza de datos (Data Cleaning). | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Palindrome-Checker) |
+
+---
+###  Otros Proyectos | Other Projects
+- **Vending Machine Sim:** Simulación de hardware y lógica digital desarrollada en Tinkercad.
+- **Sustainable Clothing Swap:** (En desarrollo) Aplicación orientada al consumo responsable para fortalecer mi dominio de Node.js.
   Quiero que con esta aplicación pueda poner a prueba mis conocimientos de JavaScript y agregarle conforme vaya aprendiendo más . | *App to promote responsible consumption and practice advanced JS.*
 
 ---
