@@ -34,11 +34,11 @@ He completado los 5 proyectos finales para la certificación de Algoritmos y Est
 
 | Proyecto | Descripción Técnica | Enlace |
 | :--- | :--- | :--- |
-| **Cash Register** | Gestión de inventario y manejo de precisión de punto flotante. | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Cash-Register) |
-| **Roman Numeral Converter** | Implementación de Algoritmo Voraz (Greedy Algorithm). | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Roman-Numeral-Converter) |
-| **Telephone Validator** | Validación compleja de patrones mediante RegEx (Expresiones Regulares). | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Telephone-Number-Validator) |
-| **Caesars Cipher** | Manipulación de datos a nivel de caracteres (ASCII) y Criptografía básica. | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Caesars-Cipher) |
-| **Palindrome Checker** | Procesamiento de cadenas y limpieza de datos (Data Cleaning). | [Ver Código](https://github.com/EvansBojorqueZ/JS-Algorithms-Certification/tree/main/Palindrome-Checker) |
+| **Cash Register** | Gestión de inventario y manejo de precisión de punto flotante. | [Ver Código](https://github.com/EvansBojorqueZz/EvansBojorqueZ/tree/main/Cash-Register) |
+| **Roman Numeral Converter** | Implementación de Algoritmo Voraz (Greedy Algorithm). | [Ver Código](https://github.com/EvansBojorqueZz/EvansBojorqueZ/tree/main/Roman-Numeral-Converter) |
+| **Telephone Validator** | Validación compleja de patrones mediante RegEx (Expresiones Regulares). | [Ver Código](https://github.com/EvansBojorqueZz/EvansBojorqueZ/tree/main/Telephone-Number-Validator) |
+| **Caesars Cipher** | Manipulación de datos a nivel de caracteres (ASCII) y Criptografía básica. | [Ver Código](https://github.com/EvansBojorqueZz/EvansBojorqueZ/tree/main/Caesars-Cipher) |
+| **Palindrome Checker** | Procesamiento de cadenas y limpieza de datos (Data Cleaning). | [Ver Código](https://github.com/EvansBojorqueZz/EvansBojorqueZ/tree/main/Palindrome-Checker) |
 
 ---
 ###  Otros Proyectos | Other Projects
